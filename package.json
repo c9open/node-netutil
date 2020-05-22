@@ -12,11 +12,11 @@
 
     "repository" : {
         "type" : "git",
-        "url" : "http://github.com/c9/node-netutil.git"
+        "url" : "http://github.com/c9open/node-netutil.git"
     },
 
     "licenses" : [{
         "type" : "MIT",
-        "url" : "http://github.com/c9/architect/raw/master/LICENSE"
+        "url" : "http://github.com/c9open/architect/raw/master/LICENSE"
     }]
 }
